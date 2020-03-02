@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin7799/Space%20Game%20-%20web%20-%20Workflow%20-%20MAR20/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin7799/Space%20Game%20-%20web%20-%20Workflow%20-%20MAR20/_build/latest?definitionId=66&branchName=master)
 
 # Contributing
 
